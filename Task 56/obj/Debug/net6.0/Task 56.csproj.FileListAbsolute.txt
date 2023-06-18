@@ -1,0 +1,15 @@
+D:\Разработчик\Знакомство с языками программирования\Homework 8\Homework_Massiv_continuation\Task 56\bin\Debug\net6.0\Task 56.exe
+D:\Разработчик\Знакомство с языками программирования\Homework 8\Homework_Massiv_continuation\Task 56\bin\Debug\net6.0\Task 56.deps.json
+D:\Разработчик\Знакомство с языками программирования\Homework 8\Homework_Massiv_continuation\Task 56\bin\Debug\net6.0\Task 56.runtimeconfig.json
+D:\Разработчик\Знакомство с языками программирования\Homework 8\Homework_Massiv_continuation\Task 56\bin\Debug\net6.0\Task 56.dll
+D:\Разработчик\Знакомство с языками программирования\Homework 8\Homework_Massiv_continuation\Task 56\bin\Debug\net6.0\Task 56.pdb
+D:\Разработчик\Знакомство с языками программирования\Homework 8\Homework_Massiv_continuation\Task 56\obj\Debug\net6.0\Task 56.csproj.AssemblyReference.cache
+D:\Разработчик\Знакомство с языками программирования\Homework 8\Homework_Massiv_continuation\Task 56\obj\Debug\net6.0\Task 56.GeneratedMSBuildEditorConfig.editorconfig
+D:\Разработчик\Знакомство с языками программирования\Homework 8\Homework_Massiv_continuation\Task 56\obj\Debug\net6.0\Task 56.AssemblyInfoInputs.cache
+D:\Разработчик\Знакомство с языками программирования\Homework 8\Homework_Massiv_continuation\Task 56\obj\Debug\net6.0\Task 56.AssemblyInfo.cs
+D:\Разработчик\Знакомство с языками программирования\Homework 8\Homework_Massiv_continuation\Task 56\obj\Debug\net6.0\Task 56.csproj.CoreCompileInputs.cache
+D:\Разработчик\Знакомство с языками программирования\Homework 8\Homework_Massiv_continuation\Task 56\obj\Debug\net6.0\Task 56.dll
+D:\Разработчик\Знакомство с языками программирования\Homework 8\Homework_Massiv_continuation\Task 56\obj\Debug\net6.0\refint\Task 56.dll
+D:\Разработчик\Знакомство с языками программирования\Homework 8\Homework_Massiv_continuation\Task 56\obj\Debug\net6.0\Task 56.pdb
+D:\Разработчик\Знакомство с языками программирования\Homework 8\Homework_Massiv_continuation\Task 56\obj\Debug\net6.0\Task 56.genruntimeconfig.cache
+D:\Разработчик\Знакомство с языками программирования\Homework 8\Homework_Massiv_continuation\Task 56\obj\Debug\net6.0\ref\Task 56.dll
